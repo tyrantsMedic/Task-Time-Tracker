@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "title": "Task 1",
+        "description": "test description",
+        "status": "done",
+        "estimatedDuration": 243,
+        "totalTimeSpent": 75,
+        "createdDate": "2025-11-15 20:16:43",
+        "startTime": null
+    },
+    {
+        "id": 2,
+        "title": "Task 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin interdum ipsum sit amet scelerisque. Fusce erat turpis, blandit fermentum eros eu, sodales pellentesque quam. Proin luctus, dui quis convallis cursus, nibh ligula aliquet augue, quis pulvinar felis sem ut diam. Suspendisse ut tincidunt arcu, in mattis purus. Fusce sagittis sollicitudin orci quis tincidunt. Aenean eu auctor nisl, in euismod lectus. Mauris sed libero vel nunc malesuada pellentesque. Integer efficitur tempor lectus, sit amet commodo risus luctus et. Donec malesuada odio eu scelerisque sagittis. Donec in metus fermentum, luctus metus a, auctor odio. Mauris vitae sodales dui. Integer commodo vestibulum purus mattis egestas. Aenean varius elit a tortor dignissim vehicula. Aliquam sed aliquet nunc.",
+        "status": "in_progress",
+        "estimatedDuration": 45,
+        "totalTimeSpent": 0,
+        "createdDate": "2025-11-15 20:46:45",
+        "startTime": null
+    },
+    {
+        "id": 3,
+        "title": "Task 3",
+        "description": "update Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin interdum ipsum sit amet scelerisque. Fusce erat turpis, blandit fermentum eros eu, sodales pellentesque quam. Proin luctus, dui quis convallis cursus, nibh ligula aliquet augue, quis pulvinar felis sem ut diam. Suspendisse ut tincidunt arcu, in mattis purus. Fusce sagittis sollicitudin orci quis tincidunt. Aenean eu auctor nisl, in euismod lectus. Mauris sed libero vel nunc malesuada pellentesque. Integer efficitur tempor lectus, sit amet commodo risus luctus et. Donec malesuada odio eu scelerisque sagittis. Donec in metus fermentum, luctus metus a, auctor odio. Mauris vitae sodales dui. Integer commodo vestibulum purus mattis egestas. Aenean varius elit a tortor dignissim vehicula. Aliquam sed aliquet nunc.",
+        "status": "in_progress",
+        "estimatedDuration": 50,
+        "totalTimeSpent": 0,
+        "createdDate": "2025-11-15 20:46:45",
+        "startTime": null
+    },
+    {
+        "id": 4,
+        "title": "Implement User Authentication",
+        "description": "Create login and registration system with password hashing and session management.",
+        "status": "in_progress",
+        "estimatedDuration": 120,
+        "totalTimeSpent": 1641,
+        "createdDate": "2025-11-14 09:30:00",
+        "startTime": null
+    },
+    {
+        "id": 5,
+        "title": "Design Database Schema",
+        "description": "Plan and create database tables for users, tasks, and time tracking.",
+        "status": "done",
+        "estimatedDuration": 90,
+        "totalTimeSpent": 85,
+        "createdDate": "2025-11-13 14:20:00",
+        "startTime": null
+    },
+    {
+        "id": 6,
+        "title": "Write API Documentation",
+        "description": "Document all API endpoints with examples and error codes.",
+        "status": "in_progress",
+        "estimatedDuration": 60,
+        "totalTimeSpent": 7,
+        "createdDate": "2025-11-15 11:00:00",
+        "startTime": null
+    },
+    {
+        "id": 7,
+        "title": "Fix Bug in Task List View",
+        "description": "Resolve issue where completed tasks are not displaying correctly in the list.",
+        "status": "in_progress",
+        "estimatedDuration": 30,
+        "totalTimeSpent": 62,
+        "createdDate": "2025-11-15 15:45:00",
+        "startTime": "2025-11-16 13:11:13"
+    },
+    {
+        "id": 8,
+        "title": "Add Email Notifications",
+        "description": "Implement email alerts for task assignments and deadline reminders.",
+        "status": "in_progress",
+        "estimatedDuration": 180,
+        "totalTimeSpent": 55,
+        "createdDate": "2025-11-12 10:00:00",
+        "startTime": null
+    },
+    {
+        "id": 9,
+        "title": "Optimize Database Queries",
+        "description": "Review and optimize slow queries to improve application performance.",
+        "status": "done",
+        "estimatedDuration": 150,
+        "totalTimeSpent": 140,
+        "createdDate": "2025-11-10 08:00:00",
+        "startTime": null
+    },
+    {
+        "id": 10,
+        "title": "Create Unit Tests",
+        "description": "Write comprehensive unit tests for all core functionality.",
+        "status": "in_progress",
+        "estimatedDuration": 200,
+        "totalTimeSpent": 56,
+        "createdDate": "2025-11-15 13:30:00",
+        "startTime": "2025-11-16 13:11:12"
+    },
+    {
+        "id": 11,
+        "title": "Update User Interface",
+        "description": "Redesign the dashboard with modern UI components and better user experience.",
+        "status": "in_progress",
+        "estimatedDuration": 240,
+        "totalTimeSpent": 1851,
+        "createdDate": "2025-11-11 09:15:00",
+        "startTime": null
+    },
+    {
+        "id": 12,
+        "title": "Setup CI\/CD Pipeline",
+        "description": "Configure continuous integration and deployment for automated testing and releases.",
+        "status": "in_progress",
+        "estimatedDuration": 180,
+        "totalTimeSpent": 58,
+        "createdDate": "2025-11-14 16:20:00",
+        "startTime": null
+    },
+    {
+        "id": 13,
+        "title": "Review Code Quality",
+        "description": "Perform code review and refactor any problematic areas.",
+        "status": "done",
+        "estimatedDuration": 90,
+        "totalTimeSpent": 95,
+        "createdDate": "2025-11-09 11:00:00",
+        "startTime": null
+    },
+    {
+        "id": 14,
+        "title": "Task Today",
+        "description": "test task",
+        "status": "in_progress",
+        "estimatedDuration": 120,
+        "totalTimeSpent": 441,
+        "createdDate": "2025-11-16 13:09:51",
+        "startTime": null
+    },
+    {
+        "id": 15,
+        "title": "Task 24",
+        "description": "casc",
+        "status": "pending",
+        "estimatedDuration": 0,
+        "totalTimeSpent": 0,
+        "createdDate": "2025-11-16 18:23:49",
+        "startTime": null
+    }
+]
