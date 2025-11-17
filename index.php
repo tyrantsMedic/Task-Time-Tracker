@@ -64,7 +64,7 @@ function getTasksFilePath(string $username): string
 {
     $dataDir = __DIR__ . '/data';
     if (!is_dir($dataDir)) {
-        mkdir($dataDir, 0755, true);
+        mkdir($dataDir, 0777, true);
     }
     return $dataDir . '/tasks_' . $username . '.json';
 }
